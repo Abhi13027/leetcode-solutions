@@ -1,3 +1,5 @@
+// Here we are using the BITWISE XOR approach
+
 class Solution
 {
 public:
